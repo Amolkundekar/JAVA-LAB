@@ -31,7 +31,5 @@ public class Math_exception {
             System.out.println("you are accessing array element with out of bound index");
             System.err.println(e);
         }
-
-        sc.close();
     }
 }
